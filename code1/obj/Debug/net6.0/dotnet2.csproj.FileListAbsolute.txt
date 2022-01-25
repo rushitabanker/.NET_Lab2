@@ -1,0 +1,15 @@
+D:\MSU\sem6\dotnet2\bin\Debug\net6.0\dotnet2.exe
+D:\MSU\sem6\dotnet2\bin\Debug\net6.0\dotnet2.deps.json
+D:\MSU\sem6\dotnet2\bin\Debug\net6.0\dotnet2.runtimeconfig.json
+D:\MSU\sem6\dotnet2\bin\Debug\net6.0\dotnet2.dll
+D:\MSU\sem6\dotnet2\bin\Debug\net6.0\ref\dotnet2.dll
+D:\MSU\sem6\dotnet2\bin\Debug\net6.0\dotnet2.pdb
+D:\MSU\sem6\dotnet2\obj\Debug\net6.0\dotnet2.csproj.AssemblyReference.cache
+D:\MSU\sem6\dotnet2\obj\Debug\net6.0\dotnet2.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSU\sem6\dotnet2\obj\Debug\net6.0\dotnet2.AssemblyInfoInputs.cache
+D:\MSU\sem6\dotnet2\obj\Debug\net6.0\dotnet2.AssemblyInfo.cs
+D:\MSU\sem6\dotnet2\obj\Debug\net6.0\dotnet2.csproj.CoreCompileInputs.cache
+D:\MSU\sem6\dotnet2\obj\Debug\net6.0\dotnet2.dll
+D:\MSU\sem6\dotnet2\obj\Debug\net6.0\ref\dotnet2.dll
+D:\MSU\sem6\dotnet2\obj\Debug\net6.0\dotnet2.pdb
+D:\MSU\sem6\dotnet2\obj\Debug\net6.0\dotnet2.genruntimeconfig.cache
