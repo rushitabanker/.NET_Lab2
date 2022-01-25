@@ -1,0 +1,15 @@
+D:\MSU\sem6\Program2\p2\bin\Debug\net6.0\p2.exe
+D:\MSU\sem6\Program2\p2\bin\Debug\net6.0\p2.deps.json
+D:\MSU\sem6\Program2\p2\bin\Debug\net6.0\p2.runtimeconfig.json
+D:\MSU\sem6\Program2\p2\bin\Debug\net6.0\p2.dll
+D:\MSU\sem6\Program2\p2\bin\Debug\net6.0\ref\p2.dll
+D:\MSU\sem6\Program2\p2\bin\Debug\net6.0\p2.pdb
+D:\MSU\sem6\Program2\p2\obj\Debug\net6.0\p2.csproj.AssemblyReference.cache
+D:\MSU\sem6\Program2\p2\obj\Debug\net6.0\p2.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSU\sem6\Program2\p2\obj\Debug\net6.0\p2.AssemblyInfoInputs.cache
+D:\MSU\sem6\Program2\p2\obj\Debug\net6.0\p2.AssemblyInfo.cs
+D:\MSU\sem6\Program2\p2\obj\Debug\net6.0\p2.csproj.CoreCompileInputs.cache
+D:\MSU\sem6\Program2\p2\obj\Debug\net6.0\p2.dll
+D:\MSU\sem6\Program2\p2\obj\Debug\net6.0\ref\p2.dll
+D:\MSU\sem6\Program2\p2\obj\Debug\net6.0\p2.pdb
+D:\MSU\sem6\Program2\p2\obj\Debug\net6.0\p2.genruntimeconfig.cache
